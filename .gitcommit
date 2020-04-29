@@ -1,0 +1,14 @@
+# <type>(<scope>): <subject>
+():
+
+# <body>
+# Detalle de la incidencia (¿Qué? ¿Por qué?)
+
+
+# <footer>
+# Trello Card, Bitbucket Issues y/o Jira Issues
+# Ejemplo:
+# Trello Card: https://trello.com/c/lBTPuBo8
+# Jira Issue: HALT-100, HALT-200
+# Closes #20, #30, #40
+Closes #
