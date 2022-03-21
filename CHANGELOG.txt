@@ -1,5 +1,0 @@
-v1.0Beta
-- Versión Inicial.
-
-v1.0.1Beta
-- Fix: descargas de mods con urls SSL (https).
