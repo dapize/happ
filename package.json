@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.1",
+    "@mui/styles": "^5.5.1",
+    "@tabler/icons": "^1.56.0",
     "@tauri-apps/api": "^1.0.0-rc.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
